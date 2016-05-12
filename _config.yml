@@ -1,14 +1,14 @@
-layout_spectrum: 0.6525483387522399
-typography_spectrum: 0.44647127902135253
+layout_spectrum: 0.955555665306747
+typography_spectrum: 0.7978521198965609
 color:
-  brandStrength: 0.7975996094755828
-  lightness: 0.7095283039379865
-  saturation: 0.8367693345062435
-  rhythmicContrast: 0.004582612309604883
+  brandStrength: 0.5265598697587848
+  lightness: 0.9212901485152543
+  saturation: 0.8215935090556741
+  rhythmicContrast: 0.32245804741978645
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: frankpunshon
