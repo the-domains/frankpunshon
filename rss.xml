@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[frankpunshon]]></title>
         <description><![CDATA[frankpunshon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frankpunshon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 06:59:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 06:59:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frankpunshon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
+            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
+            <guid isPermaLink="false">b86393bc-2502-4098-8907-427023c71a7b</guid>
+            <pubDate>Thu, 12 May 2016 06:59:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
             <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
